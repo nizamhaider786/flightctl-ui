@@ -1,3 +1,4 @@
+#Makefile to build flightctl-ui
 IMAGE_REGISTRY ?= 10.200.170.11:5000
 IMAGE_NAME ?= flightctl-ui
 IMAGE_TAG ?= latest
