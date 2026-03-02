@@ -1,4 +1,4 @@
-# Flight Control UI  
+# Flight Control UI    
 
 Monorepo containing UIs for [Flight Control](https://github.com/flightctl/flightctl)
 
